@@ -1,0 +1,6 @@
+asgiref==3.7.2
+Django
+gunicorn
+packaging==23.2
+sqlparse==0.4.4
+typing_extensions
